@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/menu-icon.js"></script>
+    <title>Studio de Fotografia</title>
+</head>
+<body>
+    <!-- Navbar -->
+    <header class="header">
+        <div class="logo">
+            <img src="assets/logo.png" alt="logo">
+        </div>
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        <label for="menu-toggle" class="menu-icon">
+            <span class="navicon"></span>
+        </label>
+        <nav class="menu">
+            <a href="index.html">Home</a>
+            <a href="perfil.html">Perfil</a>
+            <a href="portfolio.html">Portfólio</a>
+            <a href="contato.html" class="active">Fale Conosco</a>
+        </nav>
+    </header>
+
+    <!-- Fale Conosco -->
+    <div class="main-container">
+        <div class="overlay-container">
+            <div class="background-image">
+                <div class="overlay-text">
+                    <h1 class="tracking-in-expand">Aceitam se casar conosco?</h1>
+                    <p1>FIQUE CONECTADO</p1>
+                    <p2>SIGA NAS REDES</p2>
+                </div>
+                <div class="social-icons">
+                    <a href="https://www.facebook.com"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+    
+        <div class="contact-page">
+            <div class="form-container">
+                <h1>Solicite um Orçamento 🩶</h1>
+                <form>
+                    <label for="name">Nome *</label>
+                    <input type="text" id="name" name="name" required>
+    
+                    <label for="phone">Telefone *</label>
+                    <input type="tel" id="phone" name="phone" required>
+    
+                    <label for="email">E-mail *</label>
+                    <input type="email" id="email" name="email" required>
+    
+                    <label for="event-date">Data do Evento</label>
+                    <input type="date" id="event-date" name="event-date">
+    
+                    <label for="event-location">Local do Evento</label>
+                    <input type="text" id="event-location" name="event-location">
+    
+                    <label for="message">Mensagem *</label>
+                    <textarea id="message" name="message" required></textarea>
+    
+                    <label for="referral">Como nos conheceu? *</label>
+                    <input type="text" id="referral" name="referral" required>
+    
+                    <label for="unit">Escolha a unidade mais próxima *</label>
+                    <input type="text" id="unit" name="unit" required>
+    
+                    <div class="budget-button-container">
+                        <button type="submit">QUERO UM ORÇAMENTO</button>
+                    </div>
+                </form>
+            </div>
+            <div class="photo-container">
+                <img src="assets/contato/banner-contato.jpg" alt="Imagem do Evento">
+            </div>
+        </div>
+        <div class="whatsapp-button">
+            <a href="https://wa.me/seu-numero" target="_blank">Falar no WhatsApp</a>
+        </div>
+    </div>
+    
+
+    <!-- Ícone do WhatsApp -->
+    <a href="https://api.whatsapp.com/send?phone=5551995987877" target="_blank" class="whatsapp-icon">
+        <img src="assets/whatsapp.png" alt="Ícone do WhatsApp">
+    </a>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-container">
+            <div class="novidades">
+                <h3>NOVIDADES?</h3>
+                <p>Siga-nos em nossas redes sociais para ficar por dentro de promoções, ações e novidades =)</p>
+                <!-- Ícones das redes sociais -->
+                <div class="redes-sociais">
+                    <a href="https://www.instagram.com" target="_blank" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com" target="_blank" class="social-icon"><i class="fab fa-facebook"></i></a>
+                </div>
+            </div>
+    
+            <div class="footer-contact">
+                <h3>CONTATO:</h3>
+                <p><i class="fas fa-map-marker-alt"></i> Rua Exemplo 1234 - Ivoti / RS</p>
+                <p><i class="fas fa-phone"></i> xx xxxx-xxxx</p>
+                <p><i class="fab fa-whatsapp"></i> xx xxxx-xxxx</p>
+                <p><i class="fas fa-envelope"></i> <a href="mailto:contato@memoriasemfoco.com.br">contato@memoriasemfoco.com.br</a></p>
+            </div>
+        </div>
+    
+        <p>&copy; 2024 Memórias em Foco. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
