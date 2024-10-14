@@ -1,26 +1,18 @@
-Página Web de Receita :cake:
-Este projeto foi desenvolvido como parte do desafio proposto pela Rocketset, onde o objetivo era criar uma página web para uma receita de forma simples, mas funcional. A aplicação inclui os seguintes elementos:
+# Site para Studio de Fotografia
 
-Funcionalidades
-Título da receita: Um título claro e descritivo que identifica a receita.
+Este projeto é dedicado ao desenvolvimento de um site para um Studio de Fotografia, projetado para apresentar de forma atraente e funcional os serviços e a identidade do estúdio. O site será dividido em quatro seções principais:
 
-Imagem: Uma imagem atraente da receita para captar a atenção dos visitantes.
+1. **Home**: A página inicial contará com o logo do estúdio, um menu de navegação intuitivo, um carrossel dinâmico com 5 fotos que destacam o trabalho do fotógrafo, e um rodapé informativo contendo o nome do estúdio e uma mensagem de direitos reservados.
 
-Lista de ingredientes: Todos os ingredientes necessários para preparar a receita, organizados de forma clara.
+2. **Perfil**: Esta seção apresentará uma foto do estúdio acompanhada de um texto descritivo que fala sobre a missão e a visão do estúdio, destacando sua experiência e estilo fotográfico.
 
-Modo de preparo: Um passo a passo detalhado sobre como fazer a receita, facilitando o acompanhamento.
+3. **Portfólio**: Um espaço dedicado à exibição de imagens variadas, incluindo retratos, paisagens e objetos, permitindo aos visitantes conhecerem a versatilidade e a qualidade do trabalho realizado.
 
-Animação simples: Uma animação leve foi incorporada para tornar a página mais dinâmica e envolvente.
+4. **Fale Conosco**: Um formulário de contato permitirá que os visitantes se comuniquem facilmente, com campos para nome, e-mail, telefone e mensagem. Além disso, haverá um ícone do WhatsApp com um link para facilitar o contato imediato.
 
-Links das redes sociais: Ícones que redirecionam para as redes sociais vinculadas, permitindo que os usuários compartilhem a receita facilmente.
+O design do site será enriquecido com propriedades avançadas de CSS, proporcionando uma estética moderna e responsiva que melhora a experiência do usuário. A combinação de elementos visuais e informativos garantirá que o site não apenas atraia visitantes, mas também transmita a essência do Studio de Fotografia de maneira eficaz.
 
-Objetivo
-Este desafio foi uma ótima oportunidade para treinar a estrutura do código e reforçar os conceitos fundamentais do desenvolvimento front-end. Através deste projeto, consegui aplicar o conhecimento adquirido em HTML, CSS e JavaScript para criar uma página web visualmente atraente e funcional.
 
-Tecnologias Utilizadas
-HTML
-CSS
-JavaScript
 
 ![1](https://github.com/user-attachments/assets/68e158ed-450a-4384-8567-9dac42b9ab83)
 ![2](https://github.com/user-attachments/assets/76a752a5-c8bb-44f7-94e2-dc1e216b3e12)
