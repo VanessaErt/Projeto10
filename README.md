@@ -1,3 +1,27 @@
+Página Web de Receita :cake:
+Este projeto foi desenvolvido como parte do desafio proposto pela Rocketset, onde o objetivo era criar uma página web para uma receita de forma simples, mas funcional. A aplicação inclui os seguintes elementos:
+
+Funcionalidades
+Título da receita: Um título claro e descritivo que identifica a receita.
+
+Imagem: Uma imagem atraente da receita para captar a atenção dos visitantes.
+
+Lista de ingredientes: Todos os ingredientes necessários para preparar a receita, organizados de forma clara.
+
+Modo de preparo: Um passo a passo detalhado sobre como fazer a receita, facilitando o acompanhamento.
+
+Animação simples: Uma animação leve foi incorporada para tornar a página mais dinâmica e envolvente.
+
+Links das redes sociais: Ícones que redirecionam para as redes sociais vinculadas, permitindo que os usuários compartilhem a receita facilmente.
+
+Objetivo
+Este desafio foi uma ótima oportunidade para treinar a estrutura do código e reforçar os conceitos fundamentais do desenvolvimento front-end. Através deste projeto, consegui aplicar o conhecimento adquirido em HTML, CSS e JavaScript para criar uma página web visualmente atraente e funcional.
+
+Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+
 ![1](https://github.com/user-attachments/assets/68e158ed-450a-4384-8567-9dac42b9ab83)
 ![2](https://github.com/user-attachments/assets/76a752a5-c8bb-44f7-94e2-dc1e216b3e12)
 ![3](https://github.com/user-attachments/assets/855fc5d6-b0c6-4fb3-b6f7-316f892b16f7)
